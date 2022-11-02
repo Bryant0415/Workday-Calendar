@@ -7,13 +7,18 @@ I used vanilla JavaScript to make the page more interactive. See screenshots bel
 
 
 
-# The current day is displayed at the top of the calendar
+***The current day is displayed at the top of the calendar***
+![Screenshot of site](https://github.com/Bryant0415/Workday-Calendar/blob/main/Develop/TimeScreenshot.png)
 
-# Each time block is color-coded to indicate whether it is in the past, present, or future
+***Each time block is color-coded to indicate whether it is in the past, present, or future***
+![Screenshot of site](https://github.com/Bryant0415/Workday-Calendar/blob/main/Develop/TimeBlocks.png)
 
-#When I refresh the page the saved events persist
+***When I refresh the page the saved events persist***
+
+![Gif](https://github.com/Bryant0415/Workday-Calendar/blob/main/Develop/videoForReadme.gif)
 
 
 
 
-#Link to Deployed Site
+# Link to Deployed Site
+[Deployed Site](https://bryant0415.github.io/Workday-Calendar/)
