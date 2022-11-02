@@ -1,0 +1,89 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+textarea {
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+
+.description {
+  white-space: pre-wrap;
+}
+
+.time-block {
+  text-align: center;
+  border-radius: 15px;
+}
+
+.hour {
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+}
+
+.past {
+  background-color: #d3d3d3;
+  color: white;
+}
+
+.present {
+  background-color: #ff6961;
+  color: white;
+}
+
+.future {
+  background-color: #77dd77;
+  color: white;
+}
+
+.saveBtn9,
+.saveBtn10,
+.saveBtn11,
+.saveBtn12,
+.saveBtn13,
+.saveBtn14,
+.saveBtn15,
+.saveBtn16,
+.saveBtn17 {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #06aed5;
+  color: white;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all 0.3s ease-in-out;
+}
+
+textarea {
+  border: 2px solid gray;
+  padding: 15px;
+  width: 70vw;
+}
+
+button {
+  width: 65px;
+  height: 60px;
+  background-image: url(./icons8-save-48.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  border-bottom-right-radius: 25px;
+  border-top-right-radius: 25px;
+}
